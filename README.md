@@ -1,4 +1,4 @@
-# The-job-suggestion-system-is-based-on-candidates-CVs-in-the-information-technology-industry
+# The job suggestion system is based on candidates CVs in the information technology industry
 ---
 # Overview
 This is a research paper describing tasks related to the field of information technology, conducted through data collection from the Indeed.com website, a recruitment platform gathered on January 25, 2023. The Chi-square hypothesis test is employed to evaluate the level of correlation between variables. The objective is to compile statistics on various job positions within the information technology sector, including the skills currently in demand by companies and the technologies being utilized. With this information, candidates can identify the specific skills and technologies required for their applications.<br>
